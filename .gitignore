@@ -1,0 +1,12 @@
+trips.trips.xml
+*.alt.xml
+*summary.xml
+*tripinfo.xml
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
